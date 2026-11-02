@@ -35,13 +35,13 @@ The columns are not added together, because the same person may post on more tha
 - **Life-changing:** a named mental health condition, a physical illness or diagnosis, or a disability.
 - Each username is counted once, under its most serious case.
 - Quotes are copied exactly from the post. Non-English quotes are followed by an English translation in parentheses.
-- These are self-reports and have not been verified by professionals. The lists are not exhaustive; searches may have missed things.
+- These are self-reports and have not been verified by professionals. The lists are not exhaustive; our keyword searches will have missed posts.
 - These are self-reported experiences, not medical advice.
 
 ## News cases
 
 - A person counts if a news article says ChatGPT gave them life-saving or life-changing help with a medical, mental health or accessibility need, and either they used it while GPT-4o was ChatGPT's default (May 13, 2024 to August 7, 2025) or the article names GPT-4o.
-- Cases were excluded if the article implies another model was used (GPT-4, GPT-4.1, GPT-4.5, GPT-4o mini, o1, o3 or o4-mini), or a product other than the ChatGPT app.
+- Cases were excluded if the article implies another model was used (such as o1 or o3, including Deep Research), or a product other than the ChatGPT app.
 - Personal blogs, Substack essays and Reddit posts were not counted as news.
 - `what_happened` is a short summary written by us, not a quote. The article is linked in `source`.
 
